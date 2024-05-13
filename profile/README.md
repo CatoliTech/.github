@@ -1,21 +1,10 @@
 # CatoliTech
 
-### O que é?
-* Um grupo para conversar sobre tecnologia, confraternizar, aprender, etc.
+### Quem somos?
+* Somos um grupo católico para conversar sobre tecnologia, escrever código juntos, confraternizar, e muito mais!
 
-### Quem são os organizadores?
-* Isaac (CEO), Heloisa (COO).
+### Quem está à frente?
+* Isaac, como líder e Heloisa, como vice-líder. Se quiser colaborar, mande um "Hello, World!" no nosso grupo do WhatsApp!
 
-### O que fazer?
-* Palestras, hands-on, newsletter, jogar RPGs, filmes, etc.
-
-### Como?
-* Encontros presenciais de 1h com projeção.
-* Newsletter de 15 min de leitura.
-
-### Onde?
-* No IMECC/UNICAMP, E-mail.
-
-### Quando?
-* Quinzenalmente, encontro e newsletter intercalados.
-* Preferencialmente, sexta-feira às 19h00.
+### Quando e onde nos reunimos?
+* Semanalmente, às 19h00, em alguma sala do IMECC. (Ou nos finais de semana para comer!)
